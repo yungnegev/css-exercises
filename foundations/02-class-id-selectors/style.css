@@ -1,0 +1,24 @@
+p{
+    background-color: #F5A19F;
+    font-family: "DejaVu Sans", sans-serif;
+
+}
+
+p.cooler{
+    font-size: 24px;
+}
+
+
+#one {
+    color: blue;
+    font-size: 36px;
+
+
+}
+
+#another {
+    font-size: 24px;
+    background-color: #79EE79;
+    font-weight: bold;
+
+}
